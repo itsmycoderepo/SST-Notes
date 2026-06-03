@@ -576,14 +576,6 @@ With Python:
 This is why Python is one of the most important skills for a DevOps Engineer.
 
 ---
-
-# What's Next?
-
-➡️ Day 2: Data Types
-
-* String
-* Integer
-* Float
 * Boolean
 * Type Checking
 * Type Conversion
